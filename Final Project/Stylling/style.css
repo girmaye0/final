@@ -1,4 +1,6 @@
-
+body{
+  background-color: aqua;
+}
 div{
   /* display: flex;
   justify-content: space-around;
@@ -9,8 +11,8 @@ div{
 h1{
     text-align: center;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
-     font-weight: 100px;
-     text-decoration-color: red;
+     font-weight: 150px;
+     color: blueviolet;
 }
 .navbar{
   background-color: green;
