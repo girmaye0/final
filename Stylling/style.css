@@ -42,7 +42,7 @@ body{
     color: yellow;
   }
   .classmate-links a{
-    display: list-item;
+    display: inline-flex;
   }
    .mypic{
     padding-top: 30px;
