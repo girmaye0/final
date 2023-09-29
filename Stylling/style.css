@@ -24,8 +24,8 @@ body{
   /* .navbar a:active{
     background-color: green;
   } */
-  .classmate-links li{
-    display: list-item;
+  .classmate-links{
+    display: flex;
     float: none;
     align-items: flex-start;
   }
