@@ -24,6 +24,9 @@ body{
   /* .navbar a:active{
     background-color: green;
   } */
+  .classmate-links a{
+    display: inline-flex;
+  }
   li {
       float: right;
       list-style-type: none;
@@ -41,9 +44,7 @@ body{
     font-weight: 200em;
     color: yellow;
   }
-  .classmate-links a{
-    display: inline-flex;
-  }
+  
    .mypic{
     padding-top: 30px;
     height: 600px;
