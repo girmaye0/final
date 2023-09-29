@@ -24,10 +24,11 @@ body{
   /* .navbar a:active{
     background-color: green;
   } */
-  .classmate-links{
-    display: flex;
+  .classmate-links a{
+    display: inline-flex;
     float: none;
     align-items: flex-start;
+    justify-content: space-around;
   }
   li {
       float: right;
