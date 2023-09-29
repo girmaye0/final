@@ -41,6 +41,9 @@ body{
     font-weight: 200em;
     color: yellow;
   }
+  .classmate-links a{
+    display: list-item;
+  }
    .mypic{
     padding-top: 30px;
     height: 600px;
