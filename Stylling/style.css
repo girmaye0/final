@@ -29,6 +29,8 @@ body{
     float: none;
     align-items: flex-start;
     justify-content: space-around;
+    margin-top: 80px;
+    list-style: none;
   }
    .navbar li{
       float: right;
