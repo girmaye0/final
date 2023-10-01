@@ -31,7 +31,7 @@ body{
     justify-content: space-around;
     margin-top: 220px;
     list-style-type: none;
-    clear: inherit;
+    
     
   }
    .navbar li{
@@ -59,7 +59,8 @@ body{
     align-items: start; 
     justify-content: space-between;
       }
-    a{    
+    a{ 
+      font-size: 40px;   
       display: block;
       padding: 20px 40px;
       text-decoration: none;
