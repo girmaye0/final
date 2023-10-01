@@ -60,7 +60,7 @@ body{
     justify-content: space-between;
       }
     a{ 
-      font-size: 40px;   
+      /* font-size: 40px;    */
       display: block;
       padding: 20px 40px;
       text-decoration: none;
