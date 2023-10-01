@@ -48,7 +48,7 @@ body{
     height: 80px;
     width: 600px;
     margin-top: 50px;text-align: center;
-    font-weight: 200em;
+    /* font-weight: 200em; */
     color: yellow;
   }
   
