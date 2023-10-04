@@ -31,7 +31,7 @@ body{
     
   }
    .navbar li{
-      float: right;
+      display: inline-block;
       list-style-type: none;
     }
    p{
