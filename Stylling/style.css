@@ -54,7 +54,7 @@ body{
     align-items: start; 
     justify-content: space-between;
       }
-      
+
     a{ 
       font-size: 25px;   
       display: block;
@@ -71,9 +71,6 @@ body{
       height: 600px;  
       width: 500px;
       float: right;
-      padding-top: 30px;
-      padding-bottom: 50px;
-      padding-right: 30px;
   
             }
     #icon{
