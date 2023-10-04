@@ -70,7 +70,7 @@ body{
     .story{
       display: flex;
       height: 600px;  
-      width: 500px;
+      
       float: right;
       justify-content: center;
       
@@ -85,6 +85,9 @@ body{
       height: 50px;
       width: auto;
       margin-bottom: 10px;
+    }
+    .story-text{
+      margin-left: 50px;
     }
     
     
