@@ -72,11 +72,12 @@ body{
     }
     
     .story{
-      height: 500px;  
+      height: 600px;  
       width: 450px;
-      display: flex;
-      /* float: right; */
+      float: right;
       padding-top: 30px;
+      padding-bottom: 50px;
+      padding-right: 30px;
   
             }
     #icon{
