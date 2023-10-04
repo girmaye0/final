@@ -74,7 +74,8 @@ body{
     .story{
       height: 500px;  
       width: 450px;
-      float: right;
+      display: flex;
+      /* float: right; */
       padding-top: 30px;
   
             }
