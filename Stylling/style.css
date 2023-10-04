@@ -71,6 +71,8 @@ body{
       height: 600px;  
       width: 500px;
       float: right;
+      justify-content: center;
+      
   
             }
     #icon{
@@ -81,6 +83,7 @@ body{
       text-align: center;
       height: 50px;
       width: auto;
+      margin-bottom: 10px;
     }
     
     
