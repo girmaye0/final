@@ -14,7 +14,7 @@ body{
        color: blueviolet;
   }
   .navbar{
-    background-color:lightblue;
+    background-color:burlywood;
   }
   .navbar a:hover{
     background-color: blueviolet;
@@ -87,7 +87,7 @@ body{
       height: 50px;
       width: auto;
       margin-bottom: 10px;
-      background-color: lightblue;
+      background-color: burlywood;
     }
     .story-text{
       margin-left: 50px;
