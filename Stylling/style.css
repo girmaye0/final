@@ -14,7 +14,7 @@ body{
        color: blueviolet;
   }
   .navbar{
-    background-color:blue;
+    background-color:lightblue;
   }
   .navbar a:hover{
     background-color: blueviolet;
@@ -87,7 +87,7 @@ body{
       height: 50px;
       width: auto;
       margin-bottom: 10px;
-      background-color: blue;
+      background-color: lightblue;
     }
     .story-text{
       margin-left: 50px;
