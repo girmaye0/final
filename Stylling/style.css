@@ -73,7 +73,8 @@ body{
       height: 600px;  
       float: right;
       justify-content: center;
-      margin: auto;
+      margin-right: 30px;
+      /* margin: auto; */
       
   
             }
