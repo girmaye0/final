@@ -25,11 +25,11 @@ body{
   }
  
   .classmates_links li{
-    margin-top: 220px;
+    /* margin-top: 220px; */
     list-style-type: none;
     /* float: none; */
     align-items: flex-start;
-    justify-content: space-around;
+    justify-content: space-between;
     
     
     
