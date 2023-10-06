@@ -16,9 +16,12 @@ body{
   .navbar{
     background-color:burlywood;
   }
-  .navbar a:hover{
+  /* .navbar a:hover{
     background-color: blueviolet;
   
+  } */
+  .active{
+    color: aqua;
   }
  
   .classmate-links a{
