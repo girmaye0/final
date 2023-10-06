@@ -24,7 +24,7 @@ body{
     color: aqua;
   }
  
-  .classmates_links a{
+  .classmates_links li{
     display: inline-flex;
     float: none;
     align-items: flex-start;
@@ -71,7 +71,7 @@ body{
           display: flex;
           align-items: center;
     }
-    .story-text a{
+    .story-text li{
       list-style-type: none;
     }
     .story{
