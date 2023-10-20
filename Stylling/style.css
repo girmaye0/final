@@ -26,7 +26,7 @@ body{
  
   .classmates_links li{
     list-style-type: none;   
-    background-color: orange;
+    /* background-color: orange; */
   }
    .navbar li{
       display: inline-block;
